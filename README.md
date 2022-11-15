@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Janakiram-github
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested from the known to the not-yet known!
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on the not-yet known.
 - 📫 How to reach me ...
 
 <!---
